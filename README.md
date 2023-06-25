@@ -1,1 +1,7 @@
 # software_test_automation_qa
+
+I ensure that my code, program, or software is secure by declaring variables as private and validating user input. Declaring variables as private will only allow them to be accessed through the class that they are declared from. Validating user input can block certain unwanted inputs into your application. Having automated tests for the program can also ensure that it is secure. The tests should have high test coverage as well.
+
+I interpret user needs by ensuring that all requirements are met. If I do find that there is something that should have a requirement, I would make a note and let my team know. I would also make sure that all my tests pass, manually and automated. I would make diagrams and think about how the program needs to work, think about what could potentially break the program, and think about if there are extra security measures that will need to be taken.
+
+When designing software, I would first think about the classes needed. I would ensure that these classes are functional and secure. I would then write tests for the given classes. Then, I would implement the code. I would also think about the efficiency of all the code; where can there be less lines of code, are there too many variables, are there not enough variables? Making the code easily readable is a big benefit too. Adding some comments, but not too many can help. This will help if you need to hand off your work to another team member.
